@@ -9,6 +9,10 @@
 
 [The Role of Information Technology in Housing Design and Construction](https://www.rand.org/pubs/conf_proceedings/CF156.html)
 
+[AI & Architecture](https://towardsdatascience.com/ai-architecture-f9d78c6958e0)
+
+[Transitioning to Critical Speculations about how to Govern our Cosmopolitan Societies](https://www.academia.edu/39822187/Transitioning_to_Critical_Speculations_about_how_to_Govern_our_Cosmopolitan_Societies_The_Opportunity_of_an_Interview_to_Clarify_and_Redirect?email_work_card=view-paper)
+
 ### Open BIM File Downloads
 
 Common Building Information Model Files and Tools [link](https://www.nibs.org/page/bsa_commonbimfiles)
@@ -23,3 +27,6 @@ Grasshopper [link](https://www.grasshopper3d.com/)
 
 Unifi [link](https://unifilabs.com/)
 
+### Companies
+
+[Alice](https://alicetechnologies.com/)
