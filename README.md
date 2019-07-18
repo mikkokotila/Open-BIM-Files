@@ -19,7 +19,9 @@ Common Building Information Model Files and Tools [link](https://www.nibs.org/pa
 
 Open IFC Model Repository [link](http://openifcmodel.cs.auckland.ac.nz/)
 
-### Bim Software
+### Software
+
+Speckle [link](https://speckle.systems/)
 
 Solibri [link](https://www.solibri.com/)
 
