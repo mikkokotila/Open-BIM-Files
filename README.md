@@ -1,6 +1,12 @@
 ### Industry Summary
 
-- 
+- Construction is 13% of the global GDP
+- US$10.3 trillion in 2020
+- Growth from US$7.4 trillion in 2010  
+- Construction sector labor-productivity growth at 1% y-o-y
+- Global economy labor-productivity growth at 2.8% y-o-y
+- A productivity growth of 2.8% would add $1.6 trillion a year 
+- Construction activity generates 33.5% of all waste in EU
 
 ### Reading
 
