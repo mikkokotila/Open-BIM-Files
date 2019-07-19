@@ -38,7 +38,7 @@ There are countless software systems available and in use in the construction de
 
 **HVAC:** [MagiCAD](https://www.magicad.com) | [docs](https://portal.magicad.com/Download/GetProductCategoryList?categoryId=4)
 
-These softwares are all on the rather small list of softwares with the [IFC2x3 Step 2 Certification](http://www.ifcwiki.org/index.php/IFC_Certified_Software)
+These softwares are all on the rather small list of softwares with the [IFC2x3 Step 2 Certification](http://www.ifcwiki.org/index.php/IFC_Certified_Software). At the moment and going to the future, [IFC4 Certification](https://www.buildingsmart.org/ifc4-software-certification-delivers-first-milestone/) is the one to watch, but at the moment just one company is certified. 
 
 ### Other Related Software
 
