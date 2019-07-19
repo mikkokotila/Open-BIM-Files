@@ -8,7 +8,7 @@
 - A productivity growth of 2.8% would add $1.6 trillion a year 
 - Construction activity generates 33.5% of all waste in EU
 
-### Reading
+### Reading (reports)
 
 [Shaping the Future of Construction: A Breakthrough in Mindset and Technology](http://www3.weforum.org/docs/WEF_Shaping_the_Future_of_Construction_full_report__.pdf)
 
@@ -32,11 +32,13 @@ Open IFC Model Repository [link](http://openifcmodel.cs.auckland.ac.nz/)
 
 There are countless software systems available and in use in the construction design industry, which at a high-level can be categorized into three key practices; architecture, structural engineering, and HVAC. The below three are a minimal example of the systems involved in a project. Each represents the most commonly used solution in the respective field. 
 
-**ARCHITECTURE:** [Revit](https://www.autodesk.com/products/revit/overview)
+**ARCHITECTURE:** [Revit](https://www.autodesk.com/products/revit/overview) | [API docs](https://www.revitapidocs.com/)
 
-**STRUCTURAL ENGINEERING:** [Tekla](https://www.tekla.com/)
+**STRUCTURAL ENGINEERING:** [Tekla](https://www.tekla.com/) | [API docs](https://developer.tekla.com/tekla-structures/documentation)
 
-**HVAC:** [MagiCAD](https://www.magicad.com)
+**HVAC:** [MagiCAD](https://www.magicad.com) | [docs](https://portal.magicad.com/Download/GetProductCategoryList?categoryId=4)
+
+These softwares are all on the rather small list of softwares with the [IFC2x3 Step 2 Certification](http://www.ifcwiki.org/index.php/IFC_Certified_Software)
 
 ### Other Related Software
 
