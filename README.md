@@ -40,6 +40,21 @@ There are countless software systems available and in use in the construction de
 
 These softwares are all on the rather small list of softwares with the [IFC2x3 Step 2 Certification](http://www.ifcwiki.org/index.php/IFC_Certified_Software). At the moment and going to the future, [IFC4 Certification](https://www.buildingsmart.org/ifc4-software-certification-delivers-first-milestone/) is the one to watch, but at the moment just one company is certified. 
 
+One more class of software to be included here is analysis solutions. Examples include: 
+
+[RFEM](https://www.dlubal.com/en/products/rfem-fea-software/what-is-rfem)
+
+[Risa](https://risa.com/)
+
+[Sofistik](https://www.sofistik.com/) 
+
+### Considerations for Software 
+
+- Market Share
+- API eco-system
+- API documentation
+- IFC Certification
+
 ### Other Related Software
 
 Speckle [link](https://speckle.systems/)
