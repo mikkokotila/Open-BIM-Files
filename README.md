@@ -1,3 +1,6 @@
+### Industry Summary
+
+- 
 
 ### Reading
 
@@ -20,6 +23,16 @@ Common Building Information Model Files and Tools [link](https://www.nibs.org/pa
 Open IFC Model Repository [link](http://openifcmodel.cs.auckland.ac.nz/)
 
 ### Software
+
+There are countless software systems available and in use in the construction design industry, which at a high-level can be categorized into three key practices; architecture, structural engineering, and HVAC. The below three are a minimal example of the systems involved in a project. Each represents the most commonly used solution in the respective field. 
+
+**ARCHITECTURE:** [Revit](https://www.autodesk.com/products/revit/overview)
+
+**STRUCTURAL ENGINEERING:** [Tekla](https://www.tekla.com/)
+
+**HVAC:** [MagiCAD](https://www.magicad.com)
+
+### Other Related Software
 
 Speckle [link](https://speckle.systems/)
 
