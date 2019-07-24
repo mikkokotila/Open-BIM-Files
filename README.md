@@ -22,6 +22,10 @@
 
 [Transitioning to Critical Speculations about how to Govern our Cosmopolitan Societies](https://www.academia.edu/39822187/Transitioning_to_Critical_Speculations_about_how_to_Govern_our_Cosmopolitan_Societies_The_Opportunity_of_an_Interview_to_Clarify_and_Redirect?email_work_card=view-paper)
 
+### Videos
+
+[Multi-Scalar Modelling, Schema-Based Workflows and Inter-Scalar Search Interfaces for Building Design ](https://vimeo.com/287429249)
+
 ### Open BIM File Downloads
 
 Common Building Information Model Files and Tools [link](https://www.nibs.org/page/bsa_commonbimfiles)
