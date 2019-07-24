@@ -69,6 +69,8 @@ Grasshopper [link](https://www.grasshopper3d.com/)
 
 Unifi [link](https://unifilabs.com/)
 
-### Companies
+### Projects
 
 [Alice](https://alicetechnologies.com/)
+
+[INDUSTRY-WIDE CONSORTIUM TO TACKLE DATA EXCHANGE IN AN OPEN SOURCE MANNER](https://3drepo.com/innovate-uk-funds-aec-delta-mobility/)
