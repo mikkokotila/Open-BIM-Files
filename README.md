@@ -76,3 +76,13 @@ Unifi [link](https://unifilabs.com/)
 [INDUSTRY-WIDE CONSORTIUM TO TACKLE DATA EXCHANGE IN AN OPEN SOURCE MANNER](https://3drepo.com/innovate-uk-funds-aec-delta-mobility/)
 
 [AEC Deltas](https://github.com/aecdeltas)
+
+### Research Centers
+
+[Institution for Computational Design](https://icd.uni-stuttgart.de)
+
+[Block Research Group](https://www.block.arch.ethz.ch/brg/)
+
+### Discussion
+
+[BuildingSmart Forums](https://forums.buildingsmart.org/)
